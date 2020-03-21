@@ -74,6 +74,9 @@ let action = ['un bricolage',
               'du papier de toilette',
               'un statut facebook',
               'un appel vidéo',
+              'la semaine des 4 Julie',
+              'District 31',
+              
            
               
              
@@ -104,6 +107,7 @@ let contrainte = ['debout', 'assis',
                   'en gougounes',
                   'en portant les vêtements de quelqu&apos;un d&apos;autre',
                   'en restant positif',
+                  'en tapant du pied',
                   'en se masturbant',
                   'en frenchant',
                   'en se lavant les mains',
