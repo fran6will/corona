@@ -83,6 +83,7 @@ let action = ['un bricolage',
              
              ]
 let contrainte = ['debout', 'assis',
+                  'en restant À LA MAISON'
                  'en bobette',
                  'caché',
                  'en petite boule',
@@ -110,12 +111,32 @@ let contrainte = ['debout', 'assis',
                   'en tapant du pied',
                   'en se masturbant',
                   'en frenchant',
+                  'en toussant sans son coude',
+                  'en gardant un mètre de distance',
+                 
                   'en se lavant les mains',
                   'en s&apos;hydratant la peau',
                   'en culbutant',
                   'en position du Cobra',
                   'en parlant à l&apos;envers',
                   'en jouant à ni oui ni non',
+                  'en pyjama vieux de trois jours',
+                  'en portant les mêmes sous-vêtements depuis six jours',
+                  'en appelant le 811',
+                  'en quarantaine',
+                  'en faisant une blague sur le papier de toilette',
+                  'en pensant aux bains de foules',
+                  'en fixant le vide',
+                  'en regardant des lives sur instagram',
+                  'en contemplant le vide',
+                  'en se tournant les pouces',
+                  'en fourrant',
+                  'en voulant frencher',
+                  'en criss',
+                  'en étant à boutte',
+                  'en anglais',
+                  'en se disant que tout ira bien',
+                  'en respectant les mesures d&apos;hygiène',
                   
                   
                 
@@ -149,7 +170,16 @@ let endroit = ['dans le salon',
                'dans un garde-robe',
                'dans une armoire de cuisine',
                'dans un endroit sombre de la maison',
-               'dans cinq minutes'
+               'dans cinq minutes',
+               'dans l&angoisse totale',
+               'sous les couvertures',
+               'avec une lingette désinfectante',
+               'd&apos;une façon hygiénique',
+               'certainement pas proche de quelqu&apos;',
+               
+               
+              
+               
               
                
               
