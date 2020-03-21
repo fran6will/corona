@@ -24,7 +24,8 @@ let verbe = [
              'Partager',
              'Apprendre',
              'Visionner',
-             'Binge watch',
+             'Binge watcher',
+ 
            
              
             ]
