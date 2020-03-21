@@ -84,7 +84,7 @@ let action = ['un bricolage',
              
              ]
 let contrainte = ['debout', 'assis',
-                  'en restant À LA MAISON'
+                  'en restant À LA MAISON',
                  'en bobette',
                  'caché',
                  'en petite boule',
